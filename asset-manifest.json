@@ -12,10 +12,10 @@
     "static/js/4.0b285b03.chunk.js.map": "/portfolio/static/js/4.0b285b03.chunk.js.map",
     "static/js/5.0e1d2685.chunk.js": "/portfolio/static/js/5.0e1d2685.chunk.js",
     "static/js/5.0e1d2685.chunk.js.map": "/portfolio/static/js/5.0e1d2685.chunk.js.map",
-    "main.js": "/portfolio/static/js/main.0ddcfb85.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.0ddcfb85.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.51b13b86.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.51b13b86.js.map",
+    "main.js": "/portfolio/static/js/main.ff1f2307.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ff1f2307.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.d5de8001.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.d5de8001.js.map",
     "static/css/8.679831fc.chunk.css": "/portfolio/static/css/8.679831fc.chunk.css",
     "static/js/8.f737ec7e.chunk.js": "/portfolio/static/js/8.f737ec7e.chunk.js",
     "static/js/8.f737ec7e.chunk.js.map": "/portfolio/static/js/8.f737ec7e.chunk.js.map",
@@ -25,8 +25,8 @@
     "static/js/10.569fd68b.chunk.js.map": "/portfolio/static/js/10.569fd68b.chunk.js.map",
     "static/js/11.71cc3cc0.chunk.js": "/portfolio/static/js/11.71cc3cc0.chunk.js",
     "static/js/11.71cc3cc0.chunk.js.map": "/portfolio/static/js/11.71cc3cc0.chunk.js.map",
-    "static/js/12.5b84d368.chunk.js": "/portfolio/static/js/12.5b84d368.chunk.js",
-    "static/js/12.5b84d368.chunk.js.map": "/portfolio/static/js/12.5b84d368.chunk.js.map",
+    "static/js/12.b27cded8.chunk.js": "/portfolio/static/js/12.b27cded8.chunk.js",
+    "static/js/12.b27cded8.chunk.js.map": "/portfolio/static/js/12.b27cded8.chunk.js.map",
     "static/js/13.544ce0cd.chunk.js": "/portfolio/static/js/13.544ce0cd.chunk.js",
     "static/js/13.544ce0cd.chunk.js.map": "/portfolio/static/js/13.544ce0cd.chunk.js.map",
     "static/js/14.931f8758.chunk.js": "/portfolio/static/js/14.931f8758.chunk.js",
@@ -37,6 +37,7 @@
     "static/js/8.f737ec7e.chunk.js.LICENSE.txt": "/portfolio/static/js/8.f737ec7e.chunk.js.LICENSE.txt",
     "static/media/jogo_da_memoria.88fe83e3.png": "/portfolio/static/media/jogo_da_memoria.88fe83e3.png",
     "static/media/jogo_da_velha.0fd71a39.png": "/portfolio/static/media/jogo_da_velha.0fd71a39.png",
+    "static/media/kanban.c59fee54.png": "/portfolio/static/media/kanban.c59fee54.png",
     "static/media/movieflix.96b112d4.png": "/portfolio/static/media/movieflix.96b112d4.png",
     "static/media/palavrera.a342629f.png": "/portfolio/static/media/palavrera.a342629f.png",
     "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014.jpg": "/portfolio/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014.jpg",
@@ -44,9 +45,9 @@
     "static/media/profile-pic.11585b18.png": "/portfolio/static/media/profile-pic.11585b18.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.51b13b86.js",
+    "static/js/runtime-main.d5de8001.js",
     "static/css/8.679831fc.chunk.css",
     "static/js/8.f737ec7e.chunk.js",
-    "static/js/main.0ddcfb85.chunk.js"
+    "static/js/main.ff1f2307.chunk.js"
   ]
 }
