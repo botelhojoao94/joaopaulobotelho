@@ -12,10 +12,10 @@
     "static/js/4.0b285b03.chunk.js.map": "/portfolio/static/js/4.0b285b03.chunk.js.map",
     "static/js/5.0e1d2685.chunk.js": "/portfolio/static/js/5.0e1d2685.chunk.js",
     "static/js/5.0e1d2685.chunk.js.map": "/portfolio/static/js/5.0e1d2685.chunk.js.map",
-    "main.js": "/portfolio/static/js/main.ff1f2307.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.ff1f2307.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.5716fc5a.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.5716fc5a.js.map",
+    "main.js": "/portfolio/static/js/main.2e56179d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.2e56179d.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.a9a2134d.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9a2134d.js.map",
     "static/css/8.679831fc.chunk.css": "/portfolio/static/css/8.679831fc.chunk.css",
     "static/js/8.f737ec7e.chunk.js": "/portfolio/static/js/8.f737ec7e.chunk.js",
     "static/js/8.f737ec7e.chunk.js.map": "/portfolio/static/js/8.f737ec7e.chunk.js.map",
@@ -23,10 +23,10 @@
     "static/js/9.65b0050d.chunk.js.map": "/portfolio/static/js/9.65b0050d.chunk.js.map",
     "static/js/10.569fd68b.chunk.js": "/portfolio/static/js/10.569fd68b.chunk.js",
     "static/js/10.569fd68b.chunk.js.map": "/portfolio/static/js/10.569fd68b.chunk.js.map",
-    "static/js/11.71cc3cc0.chunk.js": "/portfolio/static/js/11.71cc3cc0.chunk.js",
-    "static/js/11.71cc3cc0.chunk.js.map": "/portfolio/static/js/11.71cc3cc0.chunk.js.map",
-    "static/js/12.5097b42c.chunk.js": "/portfolio/static/js/12.5097b42c.chunk.js",
-    "static/js/12.5097b42c.chunk.js.map": "/portfolio/static/js/12.5097b42c.chunk.js.map",
+    "static/js/11.52faec05.chunk.js": "/portfolio/static/js/11.52faec05.chunk.js",
+    "static/js/11.52faec05.chunk.js.map": "/portfolio/static/js/11.52faec05.chunk.js.map",
+    "static/js/12.17dd3ac9.chunk.js": "/portfolio/static/js/12.17dd3ac9.chunk.js",
+    "static/js/12.17dd3ac9.chunk.js.map": "/portfolio/static/js/12.17dd3ac9.chunk.js.map",
     "static/js/13.544ce0cd.chunk.js": "/portfolio/static/js/13.544ce0cd.chunk.js",
     "static/js/13.544ce0cd.chunk.js.map": "/portfolio/static/js/13.544ce0cd.chunk.js.map",
     "static/js/14.931f8758.chunk.js": "/portfolio/static/js/14.931f8758.chunk.js",
@@ -35,6 +35,7 @@
     "static/css/8.679831fc.chunk.css.map": "/portfolio/static/css/8.679831fc.chunk.css.map",
     "static/js/0.c17144cb.chunk.js.LICENSE.txt": "/portfolio/static/js/0.c17144cb.chunk.js.LICENSE.txt",
     "static/js/8.f737ec7e.chunk.js.LICENSE.txt": "/portfolio/static/js/8.f737ec7e.chunk.js.LICENSE.txt",
+    "static/media/imdmovies.76147542.png": "/portfolio/static/media/imdmovies.76147542.png",
     "static/media/jogo_da_memoria.88fe83e3.png": "/portfolio/static/media/jogo_da_memoria.88fe83e3.png",
     "static/media/jogo_da_velha.0fd71a39.png": "/portfolio/static/media/jogo_da_velha.0fd71a39.png",
     "static/media/kanban.c59fee54.png": "/portfolio/static/media/kanban.c59fee54.png",
@@ -45,9 +46,9 @@
     "static/media/profile-pic.11585b18.png": "/portfolio/static/media/profile-pic.11585b18.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5716fc5a.js",
+    "static/js/runtime-main.a9a2134d.js",
     "static/css/8.679831fc.chunk.css",
     "static/js/8.f737ec7e.chunk.js",
-    "static/js/main.ff1f2307.chunk.js"
+    "static/js/main.2e56179d.chunk.js"
   ]
 }
